@@ -18,4 +18,4 @@ Aplicação interativa desenvolvida em Python e Streamlit para mapeamento, local
 cd "Aplicativo EcoPonto"
 pip install streamlit pandas
 streamlit run app_ecoponto.py
-Projeto desenvolvido no âmbito do curso de Análise e Desenvolvimento de Sistemas
+
